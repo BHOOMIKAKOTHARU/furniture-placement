@@ -1,0 +1,101 @@
+Room Width,Room Height,Furniture Type,Furniture X,Furniture Y,Furniture Width,Furniture Height,Obstacle Type,Obstacle X,Obstacle Y,Obstacle Width,Obstacle Height
+6,6,Chair,4,0,1,1,Fixed Object,0,0,1,2
+9,14,Sofa,5,3,1,3,Pillar,1,7,3,5
+12,14,Sofa,2,0,3,3,Pillar,1,6,1,1
+12,8,Sofa,0,6,3,1,Fixed Object,4,2,4,2
+14,8,Table,8,0,3,1,Pillar,9,6,4,1
+9,11,Table,4,2,1,1,Pillar,5,2,3,4
+11,5,Sofa,1,0,2,1,Fixed Object,8,1,1,1
+10,11,Table,4,4,1,1,Wall,2,5,1,4
+5,8,Chair,1,5,1,1,Wall,1,2,1,2
+10,11,Sofa,6,4,1,2,Fixed Object,0,0,3,3
+10,6,Chair,8,0,1,1,Pillar,2,2,2,1
+5,13,Sofa,1,4,1,1,Fixed Object,2,0,1,3
+12,14,Sofa,9,5,2,2,Wall,6,7,2,3
+9,10,Table,0,7,1,2,Pillar,7,5,1,2
+8,13,Bed,0,0,1,1,Fixed Object,5,10,1,2
+12,10,Chair,2,2,3,2,Pillar,6,3,2,2
+13,13,Sofa,3,5,3,3,Pillar,6,11,4,1
+11,11,Table,3,7,1,2,Fixed Object,4,8,4,2
+7,14,Table,3,1,1,1,Fixed Object,2,2,2,3
+14,14,Table,11,5,2,2,Pillar,4,3,5,3
+8,8,Sofa,0,5,1,1,Pillar,3,4,2,2
+7,7,Sofa,1,0,1,1,Fixed Object,5,5,1,1
+6,11,Sofa,3,7,1,2,Pillar,4,3,1,3
+11,14,Bed,1,9,1,2,Pillar,3,1,3,1
+7,10,Chair,3,7,1,1,Pillar,4,2,2,1
+11,6,Table,2,4,2,1,Pillar,0,1,2,2
+5,10,Sofa,0,7,1,1,Pillar,0,8,1,1
+9,8,Bed,3,6,2,1,Wall,0,3,3,3
+13,10,Table,3,8,1,1,Fixed Object,4,5,1,2
+10,12,Bed,3,1,2,2,Pillar,1,1,2,4
+6,13,Table,4,4,1,2,Wall,2,6,2,3
+5,5,Sofa,0,2,1,1,Wall,2,0,1,1
+11,9,Chair,1,4,1,1,Fixed Object,2,1,3,1
+9,9,Bed,6,5,2,2,Pillar,3,2,1,3
+6,12,Table,2,0,1,2,Fixed Object,2,9,1,2
+10,14,Bed,7,8,2,1,Wall,5,1,2,5
+12,12,Sofa,2,2,1,2,Wall,5,0,2,4
+6,9,Sofa,0,4,1,2,Wall,4,4,1,3
+5,6,Chair,3,0,1,1,Wall,0,3,1,1
+12,5,Bed,0,0,1,1,Wall,1,2,5,1
+10,5,Sofa,3,1,2,1,Fixed Object,3,3,3,1
+12,10,Chair,8,0,1,1,Pillar,0,1,3,3
+9,5,Chair,6,2,2,1,Fixed Object,5,0,3,1
+12,11,Bed,0,8,1,1,Fixed Object,7,2,2,2
+12,11,Table,1,6,3,2,Fixed Object,9,4,2,2
+11,7,Bed,4,2,2,1,Wall,6,3,3,2
+6,6,Chair,4,2,1,1,Wall,0,3,1,2
+11,7,Bed,5,4,2,1,Pillar,0,4,2,2
+9,9,Sofa,1,3,1,2,Pillar,4,5,2,2
+14,10,Table,2,7,3,1,Fixed Object,9,0,4,4
+13,12,Chair,6,2,2,1,Wall,8,3,2,1
+10,13,Sofa,1,11,2,1,Pillar,7,1,2,3
+8,13,Chair,4,10,1,1,Wall,0,10,1,1
+14,10,Bed,6,0,2,2,Wall,2,2,5,4
+13,11,Chair,5,4,2,2,Fixed Object,2,6,2,1
+7,12,Sofa,5,3,1,2,Fixed Object,3,2,2,5
+11,10,Sofa,6,0,1,1,Fixed Object,4,2,2,4
+11,9,Table,1,5,2,2,Pillar,3,2,3,1
+10,5,Chair,6,3,1,1,Wall,5,0,4,1
+13,5,Table,1,2,2,1,Wall,2,0,3,1
+6,12,Table,1,1,1,3,Wall,2,6,1,3
+14,7,Chair,7,1,1,1,Wall,4,3,3,2
+12,7,Table,7,1,1,1,Wall,1,4,1,2
+10,5,Sofa,2,2,1,1,Pillar,6,3,3,1
+10,9,Sofa,4,0,2,2,Fixed Object,0,1,4,3
+8,14,Bed,5,7,1,2,Pillar,2,0,1,5
+13,14,Chair,2,10,2,3,Wall,9,0,2,6
+10,10,Bed,2,8,2,1,Wall,6,6,2,3
+8,6,Table,5,3,1,1,Pillar,1,1,2,2
+10,7,Chair,6,5,2,1,Wall,4,5,2,1
+8,11,Bed,1,7,1,1,Wall,5,5,1,1
+7,6,Table,2,2,1,1,Pillar,3,3,1,2
+9,6,Chair,0,4,1,1,Wall,5,1,2,1
+6,14,Bed,2,3,1,1,Wall,2,8,2,2
+5,6,Table,2,4,1,1,Wall,0,4,1,1
+5,11,Table,3,6,1,1,Fixed Object,0,4,1,2
+13,11,Sofa,11,4,1,2,Fixed Object,1,4,5,3
+11,5,Chair,9,1,1,1,Pillar,3,3,4,1
+9,10,Table,1,0,2,2,Wall,7,4,1,1
+9,5,Bed,0,3,2,1,Wall,3,2,3,1
+7,5,Sofa,0,1,1,1,Fixed Object,3,2,2,1
+9,10,Chair,7,2,1,1,Fixed Object,1,7,3,2
+6,10,Table,2,0,1,2,Fixed Object,2,4,1,3
+13,9,Sofa,10,2,1,2,Pillar,3,2,5,3
+8,9,Bed,2,4,1,1,Pillar,0,0,2,1
+5,13,Table,2,4,1,3,Pillar,0,4,1,3
+13,14,Bed,2,7,1,2,Wall,1,2,2,2
+12,14,Chair,8,1,2,3,Wall,0,11,5,2
+10,8,Table,8,1,1,1,Wall,1,5,1,1
+12,9,Bed,4,5,3,1,Pillar,5,6,4,1
+6,6,Bed,3,1,1,1,Fixed Object,0,0,1,1
+8,11,Chair,3,5,1,2,Wall,1,6,2,4
+9,10,Table,3,7,1,1,Pillar,5,3,1,1
+13,11,Chair,2,9,3,1,Pillar,0,6,1,2
+8,11,Table,1,5,1,2,Wall,4,5,1,4
+13,8,Sofa,10,1,2,1,Fixed Object,0,4,3,2
+8,10,Sofa,3,5,1,1,Wall,2,3,3,2
+11,6,Sofa,8,1,2,1,Fixed Object,0,3,4,2
+5,7,Bed,1,2,1,1,Wall,2,4,1,2
+5,10,Chair,1,1,1,1,Fixed Object,3,0,1,3
